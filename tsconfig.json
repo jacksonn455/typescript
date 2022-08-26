@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "dist/js", // Onde tudo vai ficar disponivel após a compilação.
+        "target": "ES6" ,// Indica para qual versão do Javascript o código escrito em TypeScript deve ser compilado.
+        "noEmitOnError": true // Não gera arquivo .js se tiver algum problema no código
+    },
+    "include": [
+        "app/**/*" // arquivos a ser conciderados para compilação
+    ]
+}

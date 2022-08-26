@@ -1,0 +1,7 @@
+ Dicas e configurações
+
+ Criar/Configurar arquivo tsconfig.json 
+ Significado da pasta dist: é o conteúdo que é acessível no servidor.
+
+
+ npm install typescript@4.2.2 --save-dev
